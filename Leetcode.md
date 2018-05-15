@@ -1,18 +1,18 @@
 <!-- TOC -->
 
-- [记录自己刷leetcode的点点滴滴](#leetcode)
-    - [<font color=#DC143C>203. 删除链表中等于给定值 val 的所有节点</font>](#font-colordc143c203--val--font)
-    - [<font color=#DC143C>389. Find the Difference（map实现） </font>](#font-colordc143c389-find-the-differencemap--font)
-    - [<font color=#DC143C>739. Daily Temperatures(递减栈) </font>](#font-colordc143c739-daily-temperatures--font)
-    - [<font color=#DC143C>258. Add Digits(找规律型的题）</font>](#font-colordc143c258-add-digits-font)
-    - [<font color=#DC143C>242. 有效的字母异位词(3种方法) </font>](#font-colordc143c242-3--font)
-    - [<font color=#DC143C>49. 字母异位词分组 </font>](#font-colordc143c49---font)
-    - [<font color=#DC143C>114. Flatten Binary Tree to Linked List(递归调用)</font>](#font-colordc143c114-flatten-binary-tree-to-linked-list-font)
-    - [<font color=red>541. Reverse String II (周期性局部反转字符串) </font>](#font-colorred541-reverse-string-ii---font)
-    - [<font color=red>70. 爬楼梯 (经典递归) </font>](#font-colorred70----font)
-    - [<font color=red>121. 买卖股票的最佳时机 (经典题)</font>](#font-colorred121---font)
-    - [<font color=red>231. Power of Two( n & n-1等知识点较多 ) </font>](#font-colorred231-power-of-two-n-n-1--font)
-    - [<font color=red>202. 快乐数(小有成就的题)</font>](#font-colorred202--font)
+- [记录自己刷leetcode的点点滴滴](#记录自己刷leetcode的点点滴滴)
+    - [<font color=#DC143C>203. 删除链表中等于给定值 val 的所有节点</font>](#font-colordc143c203-删除链表中等于给定值-val-的所有节点font)
+    - [<font color=#DC143C>389. Find the Difference（map实现） </font>](#font-colordc143c389-find-the-differencemap实现-font)
+    - [<font color=#DC143C>739. Daily Temperatures(递减栈) </font>](#font-colordc143c739-daily-temperatures递减栈-font)
+    - [<font color=#DC143C>258. Add Digits(找规律型的题）</font>](#font-colordc143c258-add-digits找规律型的题font)
+    - [<font color=#DC143C>242. 有效的字母异位词(3种方法) </font>](#font-colordc143c242-有效的字母异位词3种方法-font)
+    - [<font color=#DC143C>49. 字母异位词分组 </font>](#font-colordc143c49-字母异位词分组-font)
+    - [<font color=#DC143C>114. Flatten Binary Tree to Linked List(递归调用)</font>](#font-colordc143c114-flatten-binary-tree-to-linked-list递归调用font)
+    - [<font color=red>541. Reverse String II (周期性局部反转字符串) </font>](#font-colorred541-reverse-string-ii-周期性局部反转字符串-font)
+    - [<font color=red>70. 爬楼梯 (经典递归) </font>](#font-colorred70-爬楼梯-经典递归-font)
+    - [<font color=red>121. 买卖股票的最佳时机 (经典题)</font>](#font-colorred121-买卖股票的最佳时机-经典题font)
+    - [<font color=red>231. Power of Two( n & n-1等知识点较多 ) </font>](#font-colorred231-power-of-two-n--n-1等知识点较多--font)
+    - [<font color=red>202. 快乐数(小有成就的题)</font>](#font-colorred202-快乐数小有成就的题font)
 
 <!-- /TOC -->
 # 记录自己刷leetcode的点点滴滴
