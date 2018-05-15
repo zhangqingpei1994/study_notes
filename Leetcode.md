@@ -1,3 +1,4 @@
+# 记录自己刷leetcode的点点滴滴
 <!-- TOC -->
 
 - [记录自己刷leetcode的点点滴滴](#记录自己刷leetcode的点点滴滴)
@@ -15,8 +16,6 @@
     - [<font color=red>202. 快乐数(小有成就的题)</font>](#font-colorred202-快乐数小有成就的题font)
 
 <!-- /TOC -->
-# 记录自己刷leetcode的点点滴滴
-
 
 ## <font color=#DC143C>203. 删除链表中等于给定值 val 的所有节点</font>
 
